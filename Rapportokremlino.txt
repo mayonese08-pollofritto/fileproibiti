@@ -1,0 +1,211 @@
+RAPPORTO KREMLINO
+DNS:lookup
+A : 95.173.136.71
+A : 95.173.136.70
+A : 95.173.136.72
+MX : 10 mx4.gov.ru.
+MX : 5 mx3.gov.ru.
+NS : bcl.dns.ripn.net.
+NS : ns.gov.ru.
+NS : ns2.gov.ru.
+NS : acl.dns.ripn.net.
+NS : ccl.dns.ripn.net.
+TXT : "RKIN - Russian Kremlin Internet Network, Moscow, Russia"
+SOA : ns.gov.ru. root.ns.gov.ru. 3020101304 1200 1200 2592000 300
+GeoIP:lookup
+IP Address: 95.173.136.70
+Country: Russia
+State:
+City:
+Latitude: 55.7386
+Longitude: 37.6068
+SUBnet:lookup
+Enter IP Address : 95.173.136.70
+Address       = 95.173.136.70
+Network       = 95.173.136.70 / 32
+Netmask       = 255.255.255.255
+Broadcast     = not needed on Point-to-Point links
+Wildcard Mask = 0.0.0.0
+Hosts Bits    = 0
+Max. Hosts    = 1   (2^0 - 0)
+Host Range    = { 95.173.136.70 - 95.173.136.70 }
+zone:transfer
+; <<>> DiG 9.10.3-P4-Debian <<>> axfr @acl.dns.ripn.net kremlin.ru
+; (1 server found)
+;; global options: +cmd
+; Transfer failed.
+
+
+; <<>> DiG 9.10.3-P4-Debian <<>> axfr @ns.gov.ru kremlin.ru
+; (1 server found)
+;; global options: +cmd
+; Transfer failed.
+
+
+; <<>> DiG 9.10.3-P4-Debian <<>> axfr @ns2.gov.ru kremlin.ru
+; (1 server found)
+;; global options: +cmd
+; Transfer failed.
+
+
+; <<>> DiG 9.10.3-P4-Debian <<>> axfr @bcl.dns.ripn.net kremlin.ru
+; (1 server found)
+;; global options: +cmd
+; Transfer failed.
+
+
+; <<>> DiG 9.10.3-P4-Debian <<>> axfr @ccl.dns.ripn.net kremlin.ru
+; (1 server found)
+;; global options: +cmd
+; Transfer failed.
+HTTP: reader
+HTTP/1.1 200 OK
+Server: nginx
+Date: Mon, 16 May 2022 18:03:49 GMT
+Content-Type: text/html; charset=UTF-8
+Transfer-Encoding: chunked
+Connection: keep-alive
+Keep-Alive: timeout=10
+Vary: Accept-Encoding
+X-Frame-Options: DENY
+X-Content-Type-Options: nosniff
+Content-Security-Policy: frame-src 'self';
+X-UA-Compatible: IE=edge
+Set-Cookie: sid=X62IR2KCkgUtzv4ks/owAg==; path=/
+Content-Encoding: gzip
+host: finder
+kremlin.ru,95.173.136.71
+20.kremlin.ru,95.173.136.82
+sender3.kremlin.ru,95.173.136.75
+sender94.kremlin.ru,95.173.135.94
+sender4.kremlin.ru,95.173.136.76
+static.kremlin.ru,95.173.136.79
+accred.kremlin.ru,95.173.136.77
+en.accred.kremlin.ru,95.173.136.77
+admin.accred.kremlin.ru,95.173.136.77
+state.kremlin.ru,95.173.136.80
+eng.state.kremlin.ru,95.173.136.80
+www.state.kremlin.ru,95.173.136.80
+archive.kremlin.ru,95.173.136.72
+www.en.flag.kremlin.ru,95.173.136.72
+www.flag.kremlin.ru,95.173.136.72
+eng.kremlin.ru,95.173.136.80
+www.eng.kremlin.ru,95.173.136.80
+blog.kremlin.ru,95.173.136.80
+mail.blog.kremlin.ru,194.226.127.19
+special.kremlin.ru,95.173.136.72
+eng.special.kremlin.ru,95.173.136.80
+en.special.kremlin.ru,95.173.136.72
+www.special.kremlin.ru,95.173.136.72
+en.kremlin.ru,95.173.136.72
+www.en.kremlin.ru,95.173.136.72
+putin.kremlin.ru,95.173.136.72
+eng.putin.kremlin.ru,95.173.136.72
+programmes.putin.kremlin.ru,95.173.136.161
+accreditation.kremlin.ru,95.173.136.80
+eng.accreditation.kremlin.ru,95.173.136.80
+www.eng.constitution.kremlin.ru,95.173.136.80
+www.constitution.kremlin.ru,95.173.136.80
+ns.kremlin.ru,194.226.127.34
+pda.letters.kremlin.ru,95.173.136.80
+eng.letters.kremlin.ru,95.173.136.80
+special.letters.kremlin.ru,95.173.136.77
+en.special.letters.kremlin.ru,95.173.136.77
+en.letters.kremlin.ru,95.173.136.77
+www.en.letters.kremlin.ru,95.173.136.77
+www.letters.kremlin.ru,95.173.136.77
+tours.kremlin.ru,95.173.136.80
+events.kremlin.ru,95.173.136.80
+news.kremlin.ru,95.173.136.80
+eng.news.kremlin.ru,95.173.136.80
+www.news.kremlin.ru,95.173.136.80
+president.kremlin.ru,95.173.136.80
+www.president.kremlin.ru,95.173.136.80
+www.kremlin.ru,95.173.136.72
+proxy.kremlin.ru,194.226.80.155
+IP-locator
+{"status":"success","country":"Russia","countryCode":"RU","region":"MOW","regionName":"Moscow","city":"Moscow","zip":"144700","lat":55.7563,"lon":37.6301,"timezone":"Europe/Moscow","isp":"The Federal Guard Service of the Russian Federation","org":"Rsnet","as":"AS8291 The Federal Guard Service of the Russian Federation","query":"95.173.136.70"}
+robot.TXT
+Searching in kremlin.ru for txt
+========================================
+
+Files found:
+====================
+
+kremlin.ru/robots.txt
+robots.txt
+====================
+collection e-mail
+95.173.136.72:en.kremlin.ru
+95.173.136.77:letters.kremlin.ru
+95.173.136.71:putin.kremlin.ru
+95.173.136.79:static.kremlin.ru
+95.173.136.72:www.kremlin.ru
+subdomain finder 
+kreml.in
+kremlin.be
+kremlin.org
+kremlins.com
+kremling.com
+vrkremlin.com
+kremlintv.com
+kremlinbar.com
+antikremlin.com
+kremlinnews.com
+apexkremlin.com
+clubkremlin.com
+kremlinbank.com
+kremlinpress.com
+kremlinaward.com
+kremlinology.com
+kremlinvodka.com
+kremlinphone.com
+kremlinkevin.com
+kremlinstore.com
+kremlinpoker.com
+kremlinfilms.com
+kremlinhouse.com
+kremlinonline.com
+kremlintowers.com
+moscowkremlin.com
+kremlinmoscow.com
+kremlingremlin.com
+kremlinfashion.com
+russiankremlin.com
+kremlinrussian.com
+kremlinkennedy.com
+kremlinwelding.com
+kremlincosmetic.com
+kremlinrexson.com
+apexthekremlin.com
+wowkremlinhotel.com
+kremlinpalaceantalya.com
+kremlin.cn
+kremlin.ai
+kremlin.it
+kremlin.com.cn
+kremlin.top
+kremlin.shop
+kremlinbank.net
+2kremlin.ru
+sameskremlin.co
+kremlinbar.ru
+kremlinrussia.ru
+kremlinmuseum.ru
+kremlinquality.ru
+presidentkremlin.ru
+kremlinpoker.co.uk
+kremlinminiatures.co.uk
+kremlin-cup.ru
+kremlin-ag.de
+sames-kremlin.de
+kremlin-ticket.de
+gkd-kremlin.ru
+sameskremlin.xyz
+kremline.com
+ikremlin.com
+kremline.ru 
+cloudflare
+[~] Bypassing cloudflare                                               [~] Trying ->  mail.http://www.kremlin.ru/
+ [~] Trying ->  webmail.http://www.kremlin.ru/                         [~] Trying ->  ftp.http://www.kremlin.ru/                             [~] Trying ->  direct.http://www.kremlin.ru/                          [~] Trying ->  cpanel.http://www.kremlin.ru/                          [~] Trying ->  mail.http://www.en.kremlin.ru/                         [~] Trying ->  webmail.http://www.en.kremlin.ru/                      [~] Trying ->  ftp.http://www.en.kremlin.ru/
+ [~] Trying ->  direct.http://www.en.kremlin.ru/                       [~] Trying ->  cpanel.http://www.en.kremlin.ru/

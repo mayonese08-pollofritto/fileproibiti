@@ -1,0 +1,119 @@
+A : 104.65.250.9
+MX : 10 vpbhproof301.interpol.int.
+MX : 10 vpbhproof302.interpol.int.
+MX : 10 mail11.interpol.int.
+MX : 10 mail12.interpol.int.
+NS : a11-67.akam.net.
+NS : a28-66.akam.net.
+NS : a1-55.akam.net.
+NS : a10-66.akam.net.
+NS : a13-64.akam.net.
+NS : a14-65.akam.net.
+TXT : "MS=ms90663503"
+TXT : "have-i-been-pwned-verification=eca1e3b1f7bbfdb6e3abf9fe9e146b0b"
+TXT : "atlassian-domain-verification=/qaOakA2fgBUrFsNXDR9gfkm12gJRqJiJTeQ8/2cacMo5BgD93bn35zcdfZW8dZS"
+TXT : "google-site-verification=KD7lxGEt31GGUblbTXYSlDuBYEcHmhl_o92NzAf-W6s"
+TXT : "ciscocidomainverification=4374c834934da51408129f890766bc45c87b2dee66dcb913859d4c4bffc5e680"
+TXT : "8FJ/OHb+C3Z10NCtvdaKqTM2eiTSZuNLEV1OyVIsICX++H8zdC5pwGmgxyN0wVEy4agsNlaLt9iARhk3uWAXKw=="
+TXT : "v=spf1 ip4:62.23.118.254 ip4:85.31.216.71 ip4:212.18.243.201 ip4:129.126.175.59 ip4:129.126.175.60 -all"
+TXT : "apple-domain-verification=ui1BA6tsdY91pi8S"
+SOA : ns0.interpol.int. nsa.interpol.int. 1561979277 3600 600 86400 600
+IP Address: 104.65.250.9
+Country: United States
+State: Florida
+City: Miami
+Latitude: 25.7689
+Longitude: -80.1946 
+{"status":"success","country":"United States","countryCode":"US","region":"FL","regionName":"Florida","city":"Miami","zip":"33197","lat":25.7689,"lon":-80.1946,"timezone":"America/New_York","isp":"Akamai Technologies, Inc.","org":"Akamai Technologies, Inc.","as":"AS16625 Akamai Technologies, Inc.","query":"104.65.250.9"}
+Address       = 104.65.250.9
+Network       = 104.65.250.9 / 32
+Netmask       = 255.255.255.255
+Broadcast     = not needed on Point-to-Point links
+Wildcard Mask = 0.0.0.0
+Hosts Bits    = 0
+Max. Hosts    = 1   (2^0 - 0)
+Host Range    = { 104.65.250.9 - 104.65.250.9 }
+HTTP/1.1 301 Moved Permanently
+Server: AkamaiGHost
+Content-Length: 0
+Location: https://www.interpol.int/
+Cache-Control: max-age=2700
+Date: Fri, 08 Jul 2022 18:09:23 GMT
+Connection: keep-alive
+
+HTTP/1.1 200 OK
+Content-Type: text/html; charset=UTF-8
+X-UA-Compatible: IE=11
+X-Cache-Hits: 17585
+Accept-Ranges: bytes
+X-Content-Type-Options: nosniff
+X-Frame-Options: sameorigin, sameorigin, sameorigin
+Content-Encoding: gzip
+Content-Length: 10020
+Cache-Control: public, max-age=2700, s-maxage=600
+Date: Fri, 08 Jul 2022 18:09:24 GMT
+Connection: keep-alive
+Vary: Accept-Encoding
+Strict-Transport-Security: max-age=15768000 ; includeSubDomains
+interpol.int,72.246.159.188
+ns0.interpol.int,193.22.7.80
+vpbhproof301.interpol.int,129.126.175.59
+mail11.interpol.int,62.23.118.254
+ns1.interpol.int,193.22.7.122
+vpbhproof302.interpol.int,129.126.175.60
+mail12.interpol.int,212.18.243.201
+www2.interpol.int,193.22.7.16
+i247.interpol.int,193.22.7.66
+cyber-emea.interpol.int,213.41.17.168
+secure-idpa.interpol.int,82.196.29.61
+secure-eua.interpol.int,82.196.29.60
+cyber-apac.interpol.int,129.126.175.33
+wsq-public.interpol.int,147.135.193.20
+e.interpol.int,213.41.17.173
+secure-welcome.interpol.int,82.196.29.60
+secure-share.interpol.int,82.196.29.60
+secure.interpol.int,84.14.55.214
+whois.secure.interpol.int,82.196.29.60
+awqmsg.interpol.int,82.196.29.58
+auth.interpol.int,62.23.100.39
+secure-auth.interpol.int,82.196.29.60
+m.interpol.int,213.41.17.167
+edison.interpol.int,193.22.7.102
+ifsap.interpol.int,82.196.29.62
+cooperation.scp.interpol.int,82.196.29.60
+cyber.scp.interpol.int,82.196.29.60
+ifsup.interpol.int,82.196.29.62
+awp.interpol.int,82.196.29.53
+ifsaq.interpol.int,82.196.29.62
+woa.wsq.interpol.int,54.37.150.139
+awq.interpol.int,212.18.243.205
+msg.awq.interpol.int,82.196.29.58
+cyber.interpol.int,213.41.17.164
+pearls.interpol.int,213.41.17.164
+ems.interpol.int,62.23.118.253
+ems1.ems.interpol.int,62.23.118.253
+ems2.ems.interpol.int,62.23.118.253
+ws.interpol.int,62.23.100.37
+ifrt.interpol.int,84.14.55.215
+secure-idpu.interpol.int,82.196.29.61
+aw.interpol.int,213.41.17.165
+msg.aw.interpol.int,84.14.55.217
+vdi.aw.interpol.int,82.196.29.55
+idm.aw.interpol.int,82.196.29.57
+new.interpol.int,82.196.29.51
+[+] List of e-mails found:
+----------------------------
+dfl@interpol.int
+dfl@interpol.int
+Aerodromes@easa.europa.eu 
+[+] List of software found:
+-----------------------------
+Acrobat Distiller 4.0 for Macintosh
+PDF Design XTension
+Acrobat Distiller 9.3.0 (Windows)
+KMBT_C253
+Adobe PDF Library 15.0
+Adobe InDesign CC 14.0 (Macintosh)
+Adobe PDF Library 16.0.7
+Adobe InDesign 17.2 (Macintosh)
+Microsoft Office Word

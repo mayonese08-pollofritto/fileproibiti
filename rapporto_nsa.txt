@@ -1,0 +1,267 @@
+A : 23.5.85.43
+MX : 30 emsm-gh1-uea10.ncsc.mil.
+MX : 20 sec-jeemsg.eemsg.mail.mil.
+MX : 30 emsm-gh1-uea11.ncsc.mil.
+MX : 10 pri-jeemsg.eemsg.mail.mil.
+NS : a12-67.akam.net.
+NS : a1-107.akam.net.
+NS : a24-65.akam.net.
+NS : a5-66.akam.net.
+NS : a2-64.akam.net.
+NS : a11-66.akam.net.
+TXT : "ms=ms92230317"
+TXT : "v=spf1 ip4:214.29.60.2/32 ip4:214.29.60.3/32 include:_spf.eemsg.mail.mil include:amazonses.com ~all"
+SOA : dsdn-gh1-uea05.nsa.gov. hostmaster.nsa.gov. 2020120190 10800 1080 2419200 900
+IP Address: 23.5.85.43
+Country: United States
+State: Texas
+City: Irving
+Latitude: 32.8116
+Longitude: -96.9522
+Address       = 23.5.85.43
+Network       = 23.5.85.43 / 32
+Netmask       = 255.255.255.255
+Broadcast     = not needed on Point-to-Point links
+Wildcard Mask = 0.0.0.0
+Hosts Bits    = 0
+Max. Hosts    = 1   (2^0 - 0)
+Host Range    = { 23.5.85.43 - 23.5.85.43 }
+http://www.nsa.gov/
+http://www.nsa.gov/about/
+http://www.nsa.gov/About/Leadership/
+http://www.nsa.gov/About/Mission-Combat-Support/
+http://www.nsa.gov/Cybersecurity/
+http://www.nsa.gov/Signals-Intelligence/
+http://www.nsa.gov/About/Central-Security-Service/
+http://www.nsa.gov/About/Locations/
+http://www.nsa.gov/About/Cybersecurity-Collaboration-Center/
+http://www.nsa.gov/Press-Room/
+http://www.nsa.gov/Press-Room/Cybersecurity-Advisories-Guidance/
+http://www.nsa.gov/Press-Room/Telework-and-Mobile-Security-Guidance/
+http://www.nsa.gov/Press-Room/Press-Releases-Statements/
+http://www.nsa.gov/Press-Room/News-Highlights/
+http://www.nsa.gov/Helpful-Links/NSA-FOIA/Declassification-Transparency-Initiatives/
+http://www.nsa.gov/careers/
+http://www.nsa.gov/History/
+http://www.nsa.gov/museum/
+http://www.nsa.gov/History/Cryptologic-History/
+http://www.nsa.gov/History/National-Cryptologic-Memorial/
+https://www.youtube.com/watch?v=AnjLjIbeu8s&t=1s
+http://www.nsa.gov/Press-Room/News-Highlights/Article/Article/3078934/2022-ic-pride-summit-embraces-bringing-authenticity-to-the-workplace/
+http://www.nsa.gov/Press-Room/News-Highlights/Article/Article/3069620/nsa-partners-recommend-properly-configuring-monitoring-powershell-in-new-report/
+http://www.nsa.gov/Press-Room/News-Highlights/Article/Article/3065059/cybersecurity-speaker-series-defense-industrial-base/
+http://www.nsa.gov/Press-Room/News-Highlights/Article/Article/3055748/nsa-cisa-and-fbi-expose-prc-state-sponsored-exploitation-of-network-providers-d/
+https://oig.nsa.gov/
+https://code.nsa.gov/
+https://www.dni.gov
+http://www.defense.gov/
+https://www.intelligence.gov/ic-on-the-record-database
+https://www.intelligence.gov
+http://www.nsa.gov/about/
+http://www.nsa.gov/About/Leadership/
+http://www.nsa.gov/About/Cybersecurity-Collaboration-Center/
+http://www.nsa.gov/museum/
+http://www.nsa.gov/Helpful-Links/Contact-NSA/
+http://www.nsa.gov/nsa-accessibility/
+http://www.nsa.gov/Culture/Core-Values/
+http://www.nsa.gov/Culture/Operating-Authorities/
+http://www.nsa.gov/Culture/Civil-Liberties-and-Privacy/
+http://www.nsa.gov/Culture/Diversity-Equality-Inclusion/
+http://www.nsa.gov/Culture/General-Counsel/
+https://oig.nsa.gov/
+http://www.nsa.gov/Helpful-Links/NSA-FOIA/
+http://www.nsa.gov/Helpful-Links/Privacy-Act/
+http://www.nsa.gov/Helpful-Links/NSA-FOIA/Frequently-Requested-Information/
+http://www.nsa.gov/Helpful-Links/Request-an-NSA-Speaker/Request-a-speaker/
+http://www.nsa.gov/Helpful-Links/Prepublication-Review/
+http://www.nsa.gov/Helpful-Links/Submit-a-Media-Query/
+http://www.nsa.gov/Resources/Commercial-Solutions-for-Classified-Program/
+http://www.nsa.gov/Resources/Media-Destruction-Guidance/
+http://www.nsa.gov/Resources/NSA-Classified-Materiel-Conversion-CMC/
+http://www.nsa.gov/Resources/Cryptographic-Support-Services/
+http://www.nsa.gov/Resources/Commercial-Solutions-for-Classified-Program/
+http://www.nsa.gov/Resources/NSA-Exhibit-Roadshow/
+https://www.dni.gov/
+https://www.defense.gov/
+https://www.intelligence.gov/ic-on-the-record-database
+https://www.intelligence.gov/
+https://defense.gov/Legal-Administrative/Privacy-Security/
+https://defense.gov/Legal-Administrative/Links-Disclaimer/
+http://dodcio.defense.gov/DoDSection508/Std_Stmt.aspx
+http://dodcio.defense.gov/DoD-Web-Policy/
+http://www.esd.whs.mil/DD/plainlanguage/
+http://www.dodig.mil/
+http://prhome.defense.gov/NoFear/
+http://www.dimoc.mil/resources/limitations/
+https://www.esd.whs.mil/FOID/
+http://open.defense.gov/
+https://cmo.defense.gov/Publications/NDBOP.aspx
+https://www.usa.gov/
+https://business.defense.gov/
+https://www.web.dma.mil/
+HTTP/1.1 301 Moved Permanently
+Server: AkamaiGHost
+Content-Length: 0
+Location: https://www.nsa.gov/
+Date: Sat, 02 Jul 2022 17:03:09 GMT
+Connection: keep-alive
+
+HTTP/1.1 200 OK
+Cache-Control: no-cache,private
+Pragma: no-cache
+Content-Type: text/html; charset=utf-8
+Expires: -1
+X-UA-Compatible: IE=edge
+pw_value: 3ce3af822980b849665e8c5400e1b45b
+Access-Control-Allow-Origin: *
+X-XSS-Protection: 1; mode=block
+X-Frame-Options: SAMEORIGIN
+X-Powered-By:
+Server:
+X-ASPNET-VERSION:
+X-Content-Type-Options: nosniff
+x-aspnetmvc-version:
+Content-Encoding: gzip
+Content-Length: 17297
+Date: Sat, 02 Jul 2022 17:03:09 GMT
+Connection: keep-alive
+Vary: Accept-Encoding
+Strict-Transport-Security: max-age=31536000
+{"status":"success","country":"United States","countryCode":"US","region":"TX","regionName":"Texas","city":"Irving","zip":"75059","lat":32.8116,"lon":-96.9522,"timezone":"America/Chicago","isp":"Akamai Technologies, Inc.","org":"Akamai Technologies, Inc.","as":"AS16625 Akamai Technologies, Inc.","query":"23.5.85.43"}
+Files found:
+====================
+
+www.nsa.gov/robots.txt
+robots.txt
+====================
+Reverse IP lookup:
+a23-5-85-43.deploy.static.akamaitechnologies.com 
+[+] Emails found:
+------------------
+23f725ca-5b5a-5938-fcc8-5bbbfc9ba9bc@tycho.nsa.gov
+Auditors@nsa.gov
+ccammon@nsa.gov
+cnss@nsa.gov
+coop_office_mailbox@nsa.gov
+dib_defense@cyber.nsa.gov
+enc@nsa.gov
+foiarsc@nsa.gov
+ighotline@nsa.gov
+jequiro@uwe.nsa.gov
+jmfitz2@cyber.nsa.gov
+last@nsa.gov
+nsapao@nsa.gov
+nsets@nsa.gov
+sds@tycho.nsa.gov
+
+[+] Hosts found in search engines:
+------------------------------------
+[-] Resolving hostnames IPs...
+208.185.54.97:Captcha.nsa.gov
+104.120.122.185:Www.nsa.gov
+208.185.54.97:apps.nsa.gov
+2.16.22.247:cybercenter.nsa.gov
+104.83.90.27:oig.nsa.gov
+104.83.90.27:www.nsa.gov 
+Your Target Choice :nsa.gov
+nsa.ch
+nsa.co
+walensa.com
+balansa.com
+nsatish.com
+nsagame.com
+nsaplay.com
+visensa.com
+nsamaps.com
+criansa.com
+nsaleak.com
+nsaonly.com
+firensa.com
+aquinsa.com
+bhainsa.com
+nsaintl.com
+relansa.com
+modansa.com
+lorensa.com
+shopnsa.com
+covensa.com
+cadansa.com
+seransa.com
+neginsa.com
+nsamail.com
+nsapage.com
+nsaclub.com
+nsagirl.com
+clubnsa.com
+nsafund.com
+freensa.com
+mycensa.com
+ashinsa.com
+hovensa.com
+kokonsa.com
+nsacafe.com
+meetnsa.com
+sekonsa.com
+sakonsa.com
+nsautah.com
+seminsa.com
+bluensa.com
+divensa.com
+nsanews.com
+nsacorp.com
+nsacoin.com
+nsavage.com
+nsadate.com
+purensa.com
+incensa.com
+jovensa.com
+chaunsa.com
+lisensa.com
+starnsa.com
+malensa.com
+teamnsa.com
+genansa.com
+nsacork.com
+feransa.com
+surensa.com
+cedinsa.com
+corensa.com
+aquansa.com
+tirensa.com
+moonnsa.com
+justnsa.com
+safensa.com
+nsashop.com
+fucknsa.com
+nsaband.com
+nsateam.com
+livensa.com
+deconsa.com
+paconsa.com
+betansa.com
+piennsa.com
+curensa.com
+esconsa.com
+solensa.com
+lovensa.com
+nsakura.com
+guinsa.com
+gaynsa.com
+tionsa.com
+laatansa.com
+ayansa.com
+nsacar.com
+rebelnsa.com
+cobrinsa.com
+quinsa.com
+quensa.com
+nsaber.com
+nsaapp.com
+primensa.com
+nsajob.com
+scensa.com
+nsa247.com
+newnsa.com
+liensa.com
+nsabdi.com 
+by killercode✌😉
