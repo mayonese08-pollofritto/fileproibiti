@@ -1,0 +1,232 @@
+A : 104.22.77.115
+A : 104.22.76.115
+A : 172.67.25.218
+AAAA : 2606:4700:10::6816:4d73
+AAAA : 2606:4700:10::ac43:19da
+AAAA : 2606:4700:10::6816:4c73
+MX : 20 arcigay-it.mail.protection.outlook.com.
+MX : 5 alt2.aspmx.l.google.com.
+MX : 5 alt1.aspmx.l.google.com.
+MX : 10 aspmx3.googlemail.com.
+MX : 10 aspmx2.googlemail.com.
+MX : 10 aspmx4.googlemail.com.
+MX : 10 aspmx5.googlemail.com.
+MX : 1 aspmx.l.google.com.
+NS : ariella.ns.cloudflare.com.
+NS : seamus.ns.cloudflare.com.
+TXT : "google-site-verification=bXDA74hKHq1ir2dKz8-1VfoxYOzmadlk6mLRobru8XU"
+TXT : "MS=ms77185492"
+TXT : "MS=D744AAAD076A017DEBF64771BEA886DB2237C87D"
+TXT : "stripe-verification=7762b2c4434d6699f09e14e069acc3f586c63f59ee3681cbf7a23bc43a34e4e7"
+TXT : "v=spf1 include:spf.protection.outlook.com include:spf.mailvox.it ip4:188.213.169.243 include:_spf.google.com ~all"
+SOA : ariella.ns.cloudflare.com. dns.cloudflare.com. 2281932700 10000 2400 604800 3600
+Address       = 104.22.77.115
+Network       = 104.22.77.115 / 32
+Netmask       = 255.255.255.255
+Broadcast     = not needed on Point-to-Point links
+Wildcard Mask = 0.0.0.0
+Hosts Bits    = 0
+Max. Hosts    = 1   (2^0 - 0)
+Host Range    = { 104.22.77.115 - 104.22.77.115 }
+; <<>> DiG 9.10.3-P4-Debian <<>> axfr @ariella.ns.cloudflare.com arcigay.it
+; (3 servers found)
+;; global options: +cmd
+; Transfer failed.
+
+
+; <<>> DiG 9.10.3-P4-Debian <<>> axfr @seamus.ns.cloudflare.com arcigay.it
+; (3 servers found)
+;; global options: +cmd
+; Transfer failed.
+HTTP/1.1 301 Moved Permanently
+Date: Thu, 30 Jun 2022 18:39:47 GMT
+Transfer-Encoding: chunked
+Connection: keep-alive
+Cache-Control: max-age=3600
+Expires: Thu, 30 Jun 2022 19:39:47 GMT
+Location: https://arcigay.it/
+Vary: Accept-Encoding
+Server: cloudflare
+CF-RAY: 723906d3fd1557ca-IAD
+
+HTTP/1.1 301 Moved Permanently
+Date: Thu, 30 Jun 2022 18:39:48 GMT
+Content-Type: text/html; charset=UTF-8
+Transfer-Encoding: chunked
+Connection: keep-alive
+X-Powered-By: PHP/7.4.30
+Expires: Thu, 30 Jun 2022 19:39:48 GMT
+Cache-Control: max-age=3600
+X-Redirect-By: WordPress
+Set-Cookie: qtrans_front_language=it; expires=Fri, 30-Jun-2023 18:39:48 GMT; Max-Age=31536000; path=/, wp_wpfileupload_9c3b4c755257c5f5d2f4e2df304a05da=zGqhma2BYFd61w7azfMdKtM5fTF6GD8f; expires=Sat, 02-Jul-2022 18:39:48 GMT; Max-Age=172800; path=/, wordpress_google_apps_login=8e2f1d81b447ef365e3415fa190a58fe; path=/; secure; HttpOnly
+Location: https://www.arcigay.it/
+Vary: User-Agent
+CF-Cache-Status: DYNAMIC
+Expect-CT: max-age=604800, report-uri="https://report-uri.cloudflare.com/cdn-cgi/beacon/expect-ct"
+Server: cloudflare
+CF-RAY: 723906d46baa826c-IAD
+
+HTTP/1.1 200 OK
+Date: Thu, 30 Jun 2022 18:39:49 GMT
+Server: Apache/2.4.6
+X-Powered-By: PHP/7.4.30
+Link: <https://www.arcigay.it/wp-json/>; rel="https://api.w.org/", <https://www.arcigay.it/wp-json/wp/v2/pages/43559>; rel="alternate"; type="application/json", <https://www.arcigay.it/>; rel=shortlink
+X-TEC-API-VERSION: v1
+X-TEC-API-ROOT: https://www.arcigay.it/wp-json/tribe/events/v1/
+X-TEC-API-ORIGIN: https://www.arcigay.it
+Set-Cookie: qtrans_front_language=it; expires=Fri, 30-Jun-2023 18:39:49 GMT; Max-Age=31536000; path=/
+Vary: Accept-Encoding,User-Agent
+Content-Encoding: gzip
+Keep-Alive: timeout=5, max=100
+Connection: Keep-Alive
+Transfer-Encoding: chunked
+Content-Type: text/html; charset=UTF-8
+arcigay.it,104.22.77.115
+puglia.arcigay.it,188.213.169.243
+laquila.arcigay.it,188.213.169.243
+latina.arcigay.it,188.213.169.243
+ravenna.arcigay.it,188.213.169.243
+standup.ravenna.arcigay.it,188.213.169.243
+ancona.arcigay.it,188.213.169.243
+caserta.arcigay.it,188.213.169.243
+padova.arcigay.it,188.213.169.243
+mantova.arcigay.it,188.213.169.243
+vicenza.arcigay.it,188.213.169.243
+bbb.arcigay.it,188.213.169.244
+fad.arcigay.it,188.213.169.243
+vecchiafad.arcigay.it,188.213.169.243
+testfad.arcigay.it,188.213.169.243
+cloud.arcigay.it,188.213.169.243
+gestionale.arcigay.it,188.213.169.243
+scannernazionale.arcigay.it,188.213.169.243
+portale.arcigay.it,188.213.169.243
+molise.arcigay.it,188.213.169.243
+trieste.arcigay.it,188.213.169.243
+firenze.arcigay.it,188.213.169.243
+auth.arcigay.it,188.213.169.244
+sostienici.arcigay.it,188.213.169.243
+napoli.arcigay.it,188.213.169.243
+lefateignoranti.arcigay.it,188.213.169.243
+turn.arcigay.it,188.213.169.244
+palermo.arcigay.it,188.213.169.243
+votoarcobaleno.arcigay.it,188.213.169.243
+pesarourbino.arcigay.it,188.213.169.243
+livorno.arcigay.it,188.213.169.243
+salento.arcigay.it,188.213.169.243
+tesseramento.arcigay.it,188.213.169.243
+trento.arcigay.it,188.213.169.243
+server.arcigay.it,188.213.169.243
+trans.arcigay.it,188.213.169.243
+retetrans.arcigay.it,188.213.169.243
+migrantilgbt.arcigay.it,188.213.169.243
+meet.arcigay.it,188.213.169.243
+cominciatu.arcigay.it,188.213.169.243
+comincianew.arcigay.it,188.213.169.243
+www.arcigay.it,188.213.169.243
+{"status":"success","country":"United States","countryCode":"US","region":"CA","regionName":"California","city":"San Francisco","zip":"94107","lat":37.7803,"lon":-122.39,"timezone":"America/Los_Angeles","isp":"Cloudflare, Inc.","org":"Cloudflare, Inc.","as":"AS13335 Cloudflare, Inc.","query":"104.22.77.115"}
+[+] Emails found:
+------------------
+ancona@arcigay.it
+bat@arcigay.it
+cremona@arcigay.it
+ferrara@arcigay.it
+imperia@arcigay.it
+info@arcigay.it
+international@arcigay.it
+laquila@arcigay.it
+latina@arcigay.it
+livorno@arcigay.it
+mantova@arcigay.it
+padova@arcigay.it
+piacenza@arcigay.it
+pisa@arcigay.it
+pistoia@arcigay.it
+retetrans@arcigay.it
+rieti@arcigay.it
+rimini@arcigay.it
+roma@arcigay.it
+trasferimenti@arcigay.it
+trieste@arcigay.it
+ufficio@arcigay.it
+ufficiostampa@arcigay.it
+varese@arcigay.it
+vicenza@arcigay.it
+
+[+] Hosts found in search engines:
+------------------------------------
+[-] Resolving hostnames IPs...
+188.213.169.243:caserta.arcigay.it
+188.213.169.243:laquila.arcigay.it
+188.213.169.243:sostienici.arcigay.it
+188.213.169.243:www.arcigay.it 
+[+] Emails found:
+------------------
+ancona@arcigay.it
+bat@arcigay.it
+cremona@arcigay.it
+ferrara@arcigay.it
+imperia@arcigay.it
+info@arcigay.it
+international@arcigay.it
+laquila@arcigay.it
+latina@arcigay.it
+livorno@arcigay.it
+mantova@arcigay.it
+padova@arcigay.it
+piacenza@arcigay.it
+pisa@arcigay.it
+pistoia@arcigay.it
+retetrans@arcigay.it
+rieti@arcigay.it
+rimini@arcigay.it
+roma@arcigay.it
+trasferimenti@arcigay.it
+trieste@arcigay.it
+ufficio@arcigay.it
+ufficiostampa@arcigay.it
+varese@arcigay.it
+vicenza@arcigay.it
+
+[+] Hosts found in search engines:
+------------------------------------
+[-] Resolving hostnames IPs...
+188.213.169.243:caserta.arcigay.it
+188.213.169.243:laquila.arcigay.it
+188.213.169.243:sostienici.arcigay.it
+188.213.169.243:www.arcigay.it  
+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-
+Your Target Choice :arcigay.it
+arcigay.com
+arcigay.org 
+e-mail 2
+ancona@arcigay.it
+bat@arcigay.it
+cremona@arcigay.it
+ferrara@arcigay.it
+imperia@arcigay.it
+info@arcigay.it
+international@arcigay.it
+laquila@arcigay.it
+latina@arcigay.it
+livorno@arcigay.it
+mantova@arcigay.it
+padova@arcigay.it
+piacenza@arcigay.it
+pisa@arcigay.it
+pistoia@arcigay.it
+prato-pistoia@arcigay.it
+retetrans@arcigay.it
+rieti@arcigay.it
+rimini@arcigay.it
+roma@arcigay.it
+sport@arcigay.it
+trasferimenti@arcigay.it
+trieste@arcigay.it
+ufficio@arcigay.it
+ufficiostampa@arcigay.it
+varese@arcigay.it
+vicenza@arcigay.it
+188.213.169.243:caserta.arcigay.it
+188.213.169.243:laquila.arcigay.it
+188.213.169.243:sostienici.arcigay.it
+188.213.169.243:www.arcigay.it
