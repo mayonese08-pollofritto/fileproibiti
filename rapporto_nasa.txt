@@ -1,0 +1,703 @@
+[iNFO] Site Title: NASA
+[iNFO] IP address: 52.0.14.116
+[iNFO] Web Server: nginx/1.14.0 (Ubuntu)
+[iNFO] CMS: Drupal
+DNS lookup:
+A : 52.0.14.116
+A : 23.22.39.120
+AAAA : 2600:1f18:1f:db01:11af:58af:ae11:f645
+AAAA : 2600:1f18:1f:db00:807b:f1f4:d01b:30b1
+MX : 0 nasa-gov.mail.protection.outlook.com.
+NS : a5-66.akam.net.
+NS : a8-66.akam.net.
+NS : a1-32.akam.net.
+NS : a12-64.akam.net.
+NS : a14-67.akam.net.
+NS : a9-64.akam.net.
+TXT : "webexdomainverification.1YPST=f98a61ea-b92e-41f2-87aa-5651b2af43b8"
+TXT : "MS=ms93625004"
+TXT : "nmh1f9tgxhmfmjkshg7qh595drdfgnf1"
+TXT : "apple-domain-verification=qw51K0kGzRHLbN9S"
+TXT : "google-site-verification=ZKpcXLqaBX3jND8Fybkvr3MaaOpC_6MRjXBYm0XNkJQ"
+TXT : "HRlHXyx8jXo+9pIaJWFVBPOLVfeI2biAj3VT1woaTFpp05D5/q6AoD5KpUgws539/d2jl8wBJiEr58OEsRVugQ=="
+TXT : "v=spf1 include:_spf-4a.nasa.gov include:_spf-4b.nasa.gov include:_spf-4c.nasa.gov include:_spf-4d.nasa.gov include:_spf-4g.nasa.gov include:_spf-4m.nasa.gov include:_spf-4x.nasa.gov include:_spf-6a.nasa.gov include:spf.protection.outlook.com -all"
+TXT : "mj8729pr7k44dx62wwtx5745xr5njzkn"
+TXT : "uechcfoubh169akghg2214p54n"
+TXT : "pvv8mevb6qrmqvqi8alhmreg42"
+TXT : "amazonses:PvUL7T41LO87xjr+2nfgxTu11i75NeT9HzY3xYv82Ko="
+TXT : "atlassian-domain-verification=oNzRM7G9GIAL/LLP5c7sPOQiAHsHrQ1hKcU7GGZ0ADRZJFhUB/upe935/2RYq/jO"
+TXT : "amazonses:FXFVeQnEO3Wua+aY/H4aOIH3sSwteE+7YpGrwm8kF/s="
+TXT : "google-site-verification=BUxd0xTJY4ZjGohBwKDpNms-yOATz92Y54kgme4eKHs"
+SOA : a1-32.akam.net. dns.nasa.gov. 201506895 7200 900 1209600 300
+geoIP lookup:
+IP Address: 52.0.14.116
+Country: United States
+State: Virginia
+City: Ashburn
+Latitude: 39.0469
+Longitude: -77.4903
+subnet:
+address       = 52.0.14.116
+Network       = 52.0.14.116 / 32
+Netmask       = 255.255.255.255
+Broadcast     = not needed on Point-to-Point links
+Wildcard Mask = 0.0.0.0
+Hosts Bits    = 0
+Max. Hosts    = 1   (2^0 - 0)
+Host Range    = { 52.0.14.116 - 52.0.14.116 }
+http header:
+HTTP/1.1 301 Moved Permanently
+Server: nginx/1.14.0 (Ubuntu)
+Date: Thu, 21 Jul 2022 20:28:00 GMT
+Content-Type: text/html
+Content-Length: 194
+Connection: close
+Location: https://www.nasa.gov/
+
+HTTP/1.1 200 OK
+Content-Type: text/html
+Content-Length: 9708
+Connection: keep-alive
+x-amz-id-2: xTGerrl3VbPInNCZh4msd4dTnZciTG/JVkyWqC9LB9eZbMvaQcKcrMKtEKIG8f5d5n0jP6xExVg=
+x-amz-request-id: WZ5J57BH7ESAS4JX
+x-amz-replication-status: PENDING
+Last-Modified: Thu, 21 Jul 2022 15:00:46 GMT
+x-amz-server-side-encryption: AES256
+x-amz-meta-md5_hash: 0f71b19f9a0bc536282840a1a1233c12
+x-amz-version-id: yPipZnOxFfDfLtUWxU26xSJ8KxcfvFk1
+Accept-Ranges: bytes
+Server: AmazonS3
+X-UA-Compatible: IE=edge,chrome=1
+Date: Thu, 21 Jul 2022 20:27:05 GMT
+Cache-Control: max-age=300
+ETag: "0f71b19f9a0bc536282840a1a1233c12"
+Referrer-Policy: strict-origin
+X-Content-Type-Options: nosniff
+Strict-Transport-Security: max-age=31557600; includeSubdomains; preload
+Content-Security-Policy: frame-ancestors 'self' https://*.nasa.gov
+X-Cache: Hit from cloudfront
+Via: 1.1 242bc3f9f2b453f586c995114997fbac.cloudfront.net (CloudFront)
+X-Amz-Cf-Pop: MIA3-P2
+X-Amz-Cf-Id: VIl36We4xiK-bW6QKMU4s-hP4hB63gcUBBSfumX6cWztuC-tT9YESQ==
+Age: 65 
+host finder test:
+nsc1.nasa.gov,192.149.130.101
+inl-vpn1.nasa.gov,198.116.110.60
+ns1.nasa.gov,198.116.4.189
+lsweb02.nasa.gov,198.117.1.114
+nsc2.nasa.gov,198.117.6.7
+mts2.nasa.gov,128.102.154.87
+nsc3.nasa.gov,198.117.7.7
+nsc4.nasa.gov,198.120.25.102
+nsc5.nasa.gov,198.117.7.8
+eclipse2017.nasa.gov,129.164.179.215
+da1.dc8.nasa.gov,192.108.217.77
+nagoya1.dc8.nasa.gov,192.108.217.51
+cloud1.dc8.nasa.gov,192.108.217.176
+mtp1.dc8.nasa.gov,192.108.217.73
+mackawa2.dc8.nasa.gov,192.108.217.12
+nagoya2.dc8.nasa.gov,192.108.217.52
+bobie2.dc8.nasa.gov,192.108.217.61
+mtp2.dc8.nasa.gov,192.108.217.74
+deskjet2.dc8.nasa.gov,192.108.217.157
+nagoya3.dc8.nasa.gov,192.108.217.19
+nagoya4.dc8.nasa.gov,192.108.217.78
+cloud4.dc8.nasa.gov,192.108.217.179
+nagoya5.dc8.nasa.gov,192.108.217.79
+cloud6.dc8.nasa.gov,192.108.217.100
+sophia.dc8.nasa.gov,192.108.217.76
+optima.dc8.nasa.gov,192.108.217.13
+tuatara.dc8.nasa.gov,192.108.217.54
+unhgac.dc8.nasa.gov,192.108.217.57
+dc8-mac.dc8.nasa.gov,192.108.217.11
+pan-mac.dc8.nasa.gov,192.108.217.16
+croc.dc8.nasa.gov,192.108.217.101
+dc8-pc.dc8.nasa.gov,192.108.217.50
+pan-pc.dc8.nasa.gov,192.108.217.58
+aaapc.dc8.nasa.gov,192.108.217.59
+glgpc.dc8.nasa.gov,192.108.217.60
+dadspc.dc8.nasa.gov,192.108.217.75
+stupc.dc8.nasa.gov,192.108.217.64
+bluebird.dc8.nasa.gov,192.108.217.155
+hjbookie.dc8.nasa.gov,192.108.217.21
+magpie.dc8.nasa.gov,192.108.217.154
+turtle.dc8.nasa.gov,192.108.217.55
+irvine.dc8.nasa.gov,192.108.217.56
+cave.dc8.nasa.gov,192.108.217.110
+goldfish.dc8.nasa.gov,192.108.217.150
+parti.dc8.nasa.gov,192.108.217.68
+peacock.dc8.nasa.gov,192.108.217.153
+dial.dc8.nasa.gov,192.108.217.69
+macdial.dc8.nasa.gov,192.108.217.18
+dacom.dc8.nasa.gov,192.108.217.62
+dolphin.dc8.nasa.gov,192.108.217.151
+cannon.dc8.nasa.gov,192.108.217.63
+macpodo.dc8.nasa.gov,192.108.217.14
+figaro.dc8.nasa.gov,192.108.217.20
+opelap.dc8.nasa.gov,192.108.217.72
+xagar.dc8.nasa.gov,192.108.217.71
+msnmgr.dc8.nasa.gov,192.108.217.22
+alpacas.dc8.nasa.gov,192.108.217.17
+aramis.dc8.nasa.gov,192.108.217.66
+athos.dc8.nasa.gov,192.108.217.65
+porthos.dc8.nasa.gov,192.108.217.67
+dc8-net.dc8.nasa.gov,192.108.217.1
+hermit.dc8.nasa.gov,192.108.217.102
+xpart.dc8.nasa.gov,192.108.217.70
+dlitt.dc8.nasa.gov,192.108.217.15
+sonexfax.dc8.nasa.gov,192.108.217.156
+stingray.dc8.nasa.gov,192.108.217.152
+sfa.nasa.gov,198.116.209.149
+columbia.nasa.gov,198.119.203.12
+nrsmtp1.russia.nasa.gov,192.77.95.21
+nrsmtp2.russia.nasa.gov,198.117.8.50
+rusmtp2.russia.nasa.gov,198.117.8.50
+www2.russia.nasa.gov,198.116.72.44
+vmsfc.russia.nasa.gov,192.77.91.10
+vjsc.russia.nasa.gov,192.58.19.242
+mobile.russia.nasa.gov,198.116.72.94
+vmsfc-m.russia.nasa.gov,192.77.95.20
+www.hsfpr.russia.nasa.gov,198.116.78.79
+devhsfpr.russia.nasa.gov,198.116.72.47
+russiawsr000007wsr.russia.nasa.gov,198.116.77.50
+www.russia.nasa.gov,198.116.72.80
+nebula.nasa.gov,128.102.22.163
+arc-198-10-124-171.nebula.nasa.gov,198.10.124.171
+tempsrv1.nebula.nasa.gov,134.12.192.21
+omegavpn2.nebula.nasa.gov,198.10.124.20
+n229-lms-vl-829.nebula.nasa.gov,134.12.247.2
+nren-to-nebula.nebula.nasa.gov,134.12.193.254
+dash.nebula.nasa.gov,198.10.124.21
+william.nebula.nasa.gov,134.12.192.25
+testsystem.nebula.nasa.gov,134.12.192.1
+nebula-to-nren.nebula.nasa.gov,134.12.193.253
+lab-test.nebula.nasa.gov,198.10.124.170
+sma.nasa.gov,198.116.202.153
+insidenasa.nasa.gov,138.76.40.98
+outsidenasa.nasa.gov,209.235.105.164
+earthdata.nasa.gov,198.118.243.109
+ursmse10.earthdata.nasa.gov,198.118.243.73
+otp-1.earthdata.nasa.gov,198.118.243.101
+spl-index-nd1.earthdata.nasa.gov,198.118.243.164
+google1.earthdata.nasa.gov,198.118.243.83
+ci-ops1.earthdata.nasa.gov,198.118.243.88
+otp-2.earthdata.nasa.gov,198.118.243.102
+spl-index-nd2.earthdata.nasa.gov,198.118.243.165
+google2.earthdata.nasa.gov,198.118.243.84
+ecc.earthdata.nasa.gov,198.118.243.42
+gcmd.earthdata.nasa.gov,198.118.243.161
+cloud.earthdata.nasa.gov,52.1.186.53
+zh8veiftjmq7a0.intsvc.cloud.earthdata.nasa.gov,54.201.146.248
+djxc9r5lgp3gz3.intsvc.cloud.earthdata.nasa.gov,54.85.5.4
+7l71o7zch5iyuh.intsvc.cloud.earthdata.nasa.gov,52.202.72.83
+4l4tspcwjtruqn.intsvc.cloud.earthdata.nasa.gov,44.198.71.11
+2runbxh56pfh2o.intsvc.cloud.earthdata.nasa.gov,44.242.86.114
+cm78gj59wf1xlq.intsvc.cloud.earthdata.nasa.gov,54.205.115.187
+v2tyi8fyoeim3w.intsvc.cloud.earthdata.nasa.gov,54.70.48.86
+4hbkgddi6e45fw.intsvc.cloud.earthdata.nasa.gov,52.201.153.57
+5ympyo4tlwomzy.intsvc.cloud.earthdata.nasa.gov,52.2.113.254
+25o920ejxivtxz.intsvc.cloud.earthdata.nasa.gov,3.224.121.168
+monitoring.cloud.earthdata.nasa.gov,13.35.125.77
+twistlock.cloud.earthdata.nasa.gov,99.84.238.209
+cerebro.cloud.earthdata.nasa.gov,99.84.126.91
+secopcogtest.dev.cloud.earthdata.nasa.gov,108.139.1.87
+eimmse10.inf.earthdata.nasa.gov,198.118.255.37
+backup.inf.earthdata.nasa.gov,198.118.255.36
+uvg.earthdata.nasa.gov,198.118.243.149
+ci.earthdata.nasa.gov,198.118.243.45
+wiki.earthdata.nasa.gov,198.118.243.112
+fbm.earthdata.nasa.gov,198.118.243.39
+forum.earthdata.nasa.gov,198.119.164.227
+test-forum.earthdata.nasa.gov,198.119.134.253
+dev-forum.earthdata.nasa.gov,198.119.134.249
+cdn.earthdata.nasa.gov,198.118.243.36
+idn.earthdata.nasa.gov,198.118.243.163
+maven.earthdata.nasa.gov,198.118.243.51
+twistlock-is-lb.ngap.earthdata.nasa.gov,54.173.86.110
+secopcogtest-is-lb.ngap.earthdata.nasa.gov,35.168.147.87
+dev15test.ngap.earthdata.nasa.gov,52.35.201.49
+gibs.earthdata.nasa.gov,198.118.199.5
+prod.gibs.earthdata.nasa.gov,198.118.242.11
+uat.gibs.earthdata.nasa.gov,198.118.199.6
+sit.gibs.earthdata.nasa.gov,198.118.199.7
+dev.gibs.earthdata.nasa.gov,198.118.242.10
+logs.earthdata.nasa.gov,198.118.243.93
+bugs.earthdata.nasa.gov,198.118.243.110
+map1.vis.earthdata.nasa.gov,198.118.199.5
+injest1.vis.earthdata.nasa.gov,198.118.255.220
+map2.vis.earthdata.nasa.gov,198.118.199.5
+injest2.vis.earthdata.nasa.gov,198.118.255.219
+rms.earthdata.nasa.gov,198.118.243.108
+urs.earthdata.nasa.gov,198.118.243.33
+contingency-urs4-prod.urs.earthdata.nasa.gov,198.118.242.80
+uat.urs.earthdata.nasa.gov,198.118.243.34
+contingency-urs4-uat.urs.earthdata.nasa.gov,198.118.242.77
+sit.urs.earthdata.nasa.gov,198.118.243.52
+status.earthdata.nasa.gov,198.118.243.85
+uat.earthdata.nasa.gov,198.118.243.122
+ecc.uat.earthdata.nasa.gov,198.118.243.43
+gcmd.uat.earthdata.nasa.gov,198.118.255.45
+cloud.uat.earthdata.nasa.gov,54.81.31.3
+wkdc19x0dy0my9.intsvc.cloud.uat.earthdata.nasa.gov,54.69.167.248
+rbc6px82ugfxbf.intsvc.cloud.uat.earthdata.nasa.gov,44.237.89.24
+8ocqncki7qrxau.intsvc.cloud.uat.earthdata.nasa.gov,54.68.74.223
+twistlock.cloud.uat.earthdata.nasa.gov,13.35.125.9
+cerebro.cloud.uat.earthdata.nasa.gov,13.35.125.97
+uvg.uat.earthdata.nasa.gov,198.118.243.148
+ci.uat.earthdata.nasa.gov,198.118.243.121
+wiki.uat.earthdata.nasa.gov,198.118.243.124
+sealevel.uat.earthdata.nasa.gov,198.118.243.59
+fbm.uat.earthdata.nasa.gov,198.118.243.40
+cdn.uat.earthdata.nasa.gov,198.118.243.37
+idn.uat.earthdata.nasa.gov,198.118.255.46
+twistlock-is-lb.ngap.uat.earthdata.nasa.gov,52.200.204.238
+sandbox-backend.ngap.uat.earthdata.nasa.gov,108.157.4.67
+eg-sandbox-backend.ngap.uat.earthdata.nasa.gov,54.68.74.223
+lzards.uat.earthdata.nasa.gov,198.118.255.38
+bugs.uat.earthdata.nasa.gov,198.118.243.123
+status.uat.earthdata.nasa.gov,198.118.243.86
+conduit.uat.earthdata.nasa.gov,198.118.243.55
+mmt.uat.earthdata.nasa.gov,198.118.243.78
+draftmmt.uat.earthdata.nasa.gov,198.118.243.157
+support.uat.earthdata.nasa.gov,198.118.243.125
+worldview.uat.earthdata.nasa.gov,198.118.243.81
+git.earthdata.nasa.gov,198.118.243.114
+ecc.sit.earthdata.nasa.gov,198.118.243.44
+f5.intsvc.cloud.sit.earthdata.nasa.gov,54.156.129.234
+e9h3jlsvlryzn5.intsvc.cloud.sit.earthdata.nasa.gov,52.201.175.83
+gbwzq6aaoj4au6.intsvc.cloud.sit.earthdata.nasa.gov,54.85.131.150
+m1cym53lpdgi98.intsvc.cloud.sit.earthdata.nasa.gov,52.12.234.71
+hg74nlljofraw8.intsvc.cloud.sit.earthdata.nasa.gov,34.236.114.186
+alb.intsvc.cloud.sit.earthdata.nasa.gov,54.82.214.149
+t9zocukxa28iag.intsvc.cloud.sit.earthdata.nasa.gov,52.27.245.88
+6tnz37ndl6kuah.intsvc.cloud.sit.earthdata.nasa.gov,54.186.142.191
+api.intsvc.cloud.sit.earthdata.nasa.gov,54.164.64.156
+0k3wi7l6joarbp.intsvc.cloud.sit.earthdata.nasa.gov,44.195.130.27
+twistlock.cloud.sit.earthdata.nasa.gov,18.66.248.73
+cerebro.cloud.sit.earthdata.nasa.gov,18.65.3.96
+ci.sit.earthdata.nasa.gov,198.118.243.115
+wiki.sit.earthdata.nasa.gov,198.118.243.118
+sealevel.sit.earthdata.nasa.gov,198.118.243.58
+fbm.sit.earthdata.nasa.gov,198.118.243.41
+cdn.sit.earthdata.nasa.gov,198.118.243.38
+ngap.sit.earthdata.nasa.gov,99.84.238.212
+twistlock-is-lb.ngap.sit.earthdata.nasa.gov,52.20.0.112
+s3-test.kzebdi.ngap.sit.earthdata.nasa.gov,108.139.1.67
+demo.ngap.sit.earthdata.nasa.gov,108.139.1.87
+eg-demo.ngap.sit.earthdata.nasa.gov,52.24.24.192
+egressproto.ngap.sit.earthdata.nasa.gov,108.138.7.15
+dashboard-hector.ngap.sit.earthdata.nasa.gov,99.84.238.181
+jjwhite6-eg-test.ngap.sit.earthdata.nasa.gov,52.27.245.88
+jsoohoo-test.ngap.sit.earthdata.nasa.gov,54.186.142.191
+dhill-dev.ngap.sit.earthdata.nasa.gov,54.85.131.150
+lzards.sit.earthdata.nasa.gov,198.118.243.74
+bugs.sit.earthdata.nasa.gov,198.118.243.117
+status.sit.earthdata.nasa.gov,198.118.243.87
+conduit.sit.earthdata.nasa.gov,198.118.243.54
+mmt.sit.earthdata.nasa.gov,198.118.243.75
+draftmmt.sit.earthdata.nasa.gov,198.118.243.156
+support.sit.earthdata.nasa.gov,198.118.243.119
+worldview.sit.earthdata.nasa.gov,198.118.243.80
+conduit.earthdata.nasa.gov,198.118.243.53
+mmt.earthdata.nasa.gov,198.118.243.79
+draftmmt.earthdata.nasa.gov,198.118.243.158
+support.earthdata.nasa.gov,198.118.243.113
+worldview.earthdata.nasa.gov,198.118.243.82
+nsgpap01.sgw.earthdata.nasa.gov,198.118.243.76
+nsguap01.sgw.earthdata.nasa.gov,198.118.243.70
+nsgpms01.sgw.earthdata.nasa.gov,198.118.243.50
+nsgums01.sgw.earthdata.nasa.gov,198.118.243.49
+nsgpap02.sgw.earthdata.nasa.gov,198.118.243.77
+nsguap02.sgw.earthdata.nasa.gov,198.118.243.71
+nsgpap03.sgw.earthdata.nasa.gov,198.118.243.89
+nsguap03.sgw.earthdata.nasa.gov,198.118.243.69
+nsgpap04.sgw.earthdata.nasa.gov,198.118.243.90
+nsgpap05.sgw.earthdata.nasa.gov,198.118.243.91
+nsgpap06.sgw.earthdata.nasa.gov,198.118.243.92
+nsgpap07.sgw.earthdata.nasa.gov,198.118.243.94
+lzapl01.uat.lz.earthdata.nasa.gov,198.118.242.193
+sm3b.nasa.gov,128.183.170.177
+ndclab.nasa.gov,129.166.8.44
+msdds00011920.ndclab.nasa.gov,198.120.64.235
+nlmsdra01.ndclab.nasa.gov,129.166.8.53
+hpdtloradb01.ndclab.nasa.gov,198.120.64.66
+hpdtlweb01.ndclab.nasa.gov,198.120.64.69
+hpdtlcac01.ndclab.nasa.gov,198.120.64.38
+nlmsmac01.ndclab.nasa.gov,129.166.9.21
+nlmsadc01.ndclab.nasa.gov,129.166.8.42
+hpdtlace01.ndclab.nasa.gov,198.120.64.205
+hpdtlddmi01.ndclab.nasa.gov,198.120.64.247
+hpdtlesxi01.ndclab.nasa.gov,198.120.64.21
+hpdtlsql01.ndclab.nasa.gov,198.120.64.52
+hpdtloraoem01.ndclab.nasa.gov,198.120.64.243
+nlmsmgm01.ndclab.nasa.gov,129.166.8.68
+hpdtlsm01.ndclab.nasa.gov,198.120.64.208
+hpdtldevman01.ndclab.nasa.gov,198.120.64.183
+nlmsmon01.ndclab.nasa.gov,129.166.9.211
+hpdtldp01.ndclab.nasa.gov,198.120.64.228
+hpdtlsep01.ndclab.nasa.gov,198.120.64.249
+nlmsw7hp01.ndclab.nasa.gov,129.166.8.250
+hpdtlmip01.ndclab.nasa.gov,198.120.64.233
+hpdtldar01.ndclab.nasa.gov,198.120.64.251
+hpdtlcacr01.ndclab.nasa.gov,198.120.64.68
+hpdtlcas01.ndclab.nasa.gov,198.120.64.39
+hpdtlfs01.ndclab.nasa.gov,198.120.64.35
+hpdtlhpops01.ndclab.nasa.gov,198.120.64.213
+hpdtlss01.ndclab.nasa.gov,198.120.64.227
+nlmsvwus01.ndclab.nasa.gov,129.166.8.67
+hpdtlrhelsat01.ndclab.nasa.gov,198.120.64.83
+nlmscmgt01.ndclab.nasa.gov,198.120.64.87
+hpdtlmgt01.ndclab.nasa.gov,198.120.64.72
+hpdtlcit01.ndclab.nasa.gov,198.120.64.202
+hpdtlvcent01.ndclab.nasa.gov,198.120.64.211
+hpdtltest01.ndclab.nasa.gov,198.120.64.203
+nlmsdrw01.ndclab.nasa.gov,129.166.8.64
+ndcfarm1.ndclab.nasa.gov,129.166.9.175
+hpdtlcadb02.ndclab.nasa.gov,198.120.64.248
+hpdtloradb02.ndclab.nasa.gov,198.120.64.67
+hpdtlweb02.ndclab.nasa.gov,198.120.64.70
+hpdtlcac02.ndclab.nasa.gov,198.120.64.246
+nlmsmac02.ndclab.nasa.gov,129.166.9.40
+nlmsadc02.ndclab.nasa.gov,129.166.8.44
+nlmssmc02.ndclab.nasa.gov,129.166.8.238
+hpdtlace02.ndclab.nasa.gov,198.120.64.206
+hpdtlsql02.ndclab.nasa.gov,198.120.64.53
+nlmscrl02.ndclab.nasa.gov,129.166.8.113
+hpdtlsm02.ndclab.nasa.gov,198.120.64.209
+nlmsmon02.ndclab.nasa.gov,129.166.9.207
+nlmsw7hp02.ndclab.nasa.gov,129.166.8.251
+hpdtlmip02.ndclab.nasa.gov,198.120.64.234
+hpdtldar02.ndclab.nasa.gov,198.120.64.252
+hpdtlcas02.ndclab.nasa.gov,198.120.64.244
+hpdtlfs02.ndclab.nasa.gov,198.120.64.36
+hpdtlvcent02.ndclab.nasa.gov,198.120.64.212
+hpdtltest02.ndclab.nasa.gov,198.120.64.204
+hpdtlweb03.ndclab.nasa.gov,198.120.64.71
+nlmsmac03.ndclab.nasa.gov,129.166.9.41
+nlmsadc03.ndclab.nasa.gov,129.166.8.45
+nlmsw7hp03.ndclab.nasa.gov,129.166.8.252
+hpdtldar03.ndclab.nasa.gov,198.120.64.253
+nlmscer03.ndclab.nasa.gov,129.166.9.146
+hpdtlcas03.ndclab.nasa.gov,198.120.64.245
+mssla000963573.ndclab.nasa.gov,198.120.64.229
+hpdtlweb04.ndclab.nasa.gov,198.120.64.242
+nlmsmac04.ndclab.nasa.gov,129.166.9.42
+nlmsadc04.ndclab.nasa.gov,129.166.8.46
+hpdtldar04.ndclab.nasa.gov,198.120.64.254
+nlmscer04.ndclab.nasa.gov,129.166.9.147
+hpdtlweb05.ndclab.nasa.gov,198.120.64.223
+nlmsmac05.ndclab.nasa.gov,129.166.9.43
+hpdtlam9db.ndclab.nasa.gov,198.120.64.221
+hpdtlsm9db.ndclab.nasa.gov,198.120.64.219
+hpdtlcadb.ndclab.nasa.gov,198.120.64.217
+hpdtlamdb.ndclab.nasa.gov,198.120.64.216
+hpdtlsmdb.ndclab.nasa.gov,198.120.64.220
+hpdtlbsdb.ndclab.nasa.gov,198.120.64.218
+hpdtlsmtdb.ndclab.nasa.gov,198.120.64.238
+hpdtlcaespare.ndclab.nasa.gov,198.120.64.239
+nlmshpcore.ndclab.nasa.gov,129.166.10.223
+acesordertracking.ndclab.nasa.gov,198.120.64.77
+cdph.ndclab.nasa.gov,129.166.8.115
+csi.ndclab.nasa.gov,129.166.8.244
+nlmshpsql.ndclab.nasa.gov,129.166.10.225
+hpdtlam.ndclab.nasa.gov,198.120.64.200
+hpdtlsm.ndclab.nasa.gov,198.120.64.201
+hpdtlcaespareilo.ndclab.nasa.gov,198.120.64.240
+hpdtlhpoo.ndclab.nasa.gov,198.120.64.226
+hpdtlsmap.ndclab.nasa.gov,198.120.64.215
+hpdtlsmtap.ndclab.nasa.gov,198.120.64.237
+hpdtllinuxdp.ndclab.nasa.gov,198.120.64.34
+hpdtlhypclstr.ndclab.nasa.gov,198.120.64.63
+adms.ndclab.nasa.gov,129.166.9.171
+hpdtlrcat.ndclab.nasa.gov,198.120.64.222
+nlmshpsat.ndclab.nasa.gov,129.166.10.224
+testlinux.ndclab.nasa.gov,198.120.64.37
+shift.oiglab.nasa.gov,198.117.61.6
+www.icb.nasa.gov,209.235.105.171
+codeb.nasa.gov,128.183.243.46
+internal.codeb.nasa.gov,128.183.243.47
+hcieweb.nasa.gov,139.169.149.82
+lsweb.nasa.gov,198.117.0.189
+aura110.vafb.nasa.gov,198.120.18.110
+gsfc110.vafb.nasa.gov,198.120.18.138
+pc10.vafb.nasa.gov,198.120.18.100
+aura120.vafb.nasa.gov,198.120.18.120
+gsfc120.vafb.nasa.gov,198.120.18.148
+kw1379540.vafb.nasa.gov,198.120.18.89
+sdl001.vafb.nasa.gov,198.120.18.80
+gsfc101.vafb.nasa.gov,198.120.18.129
+aura111.vafb.nasa.gov,198.120.18.111
+gsfc111.vafb.nasa.gov,198.120.18.139
+aura121.vafb.nasa.gov,198.120.18.121
+gsfc121.vafb.nasa.gov,198.120.18.149
+host81.vafb.nasa.gov,192.150.34.81
+nasa1.vafb.nasa.gov,198.120.18.85
+pc1.vafb.nasa.gov,198.120.18.91
+mmps1.vafb.nasa.gov,198.120.18.8
+reserv1.vafb.nasa.gov,198.120.18.152
+sdl002.vafb.nasa.gov,198.120.18.81
+gsfc102.vafb.nasa.gov,198.120.18.130
+aura112.vafb.nasa.gov,198.120.18.112
+gsfc112.vafb.nasa.gov,198.120.18.140
+aura122.vafb.nasa.gov,198.120.18.122
+gsfc122.vafb.nasa.gov,198.120.18.150
+nasa2.vafb.nasa.gov,198.120.18.86
+pc2.vafb.nasa.gov,198.120.18.92
+reserv2.vafb.nasa.gov,198.120.18.153
+sdl003.vafb.nasa.gov,198.120.18.82
+gsfc103.vafb.nasa.gov,198.120.18.131
+aura113.vafb.nasa.gov,198.120.18.113
+gsfc113.vafb.nasa.gov,198.120.18.141
+aura123.vafb.nasa.gov,198.120.18.123
+nasa3.vafb.nasa.gov,198.120.18.87
+pc3.vafb.nasa.gov,198.120.18.93
+reserv3.vafb.nasa.gov,198.120.18.154
+sdl004.vafb.nasa.gov,198.120.18.83
+gsfc104.vafb.nasa.gov,198.120.18.132
+aura114.vafb.nasa.gov,198.120.18.114
+gsfc114.vafb.nasa.gov,198.120.18.142
+aura124.vafb.nasa.gov,198.120.18.124
+pc4.vafb.nasa.gov,198.120.18.94
+reserv4.vafb.nasa.gov,198.120.18.155
+sdl005.vafb.nasa.gov,198.120.18.84
+gsfc105.vafb.nasa.gov,198.120.18.133
+aura115.vafb.nasa.gov,198.120.18.115
+gsfc115.vafb.nasa.gov,198.120.18.143
+aura125.vafb.nasa.gov,198.120.18.125
+pc5.vafb.nasa.gov,198.120.18.95
+reserv5.vafb.nasa.gov,198.120.18.156
+gsfc106.vafb.nasa.gov,198.120.18.134
+aura116.vafb.nasa.gov,198.120.18.116
+gsfc116.vafb.nasa.gov,198.120.18.144
+aura126.vafb.nasa.gov,198.120.18.126
+pc6.vafb.nasa.gov,198.120.18.96
+reserv6.vafb.nasa.gov,198.120.18.157
+gsfc107.vafb.nasa.gov,198.120.18.135
+kow001117.vafb.nasa.gov,198.120.18.106
+aura117.vafb.nasa.gov,198.120.18.117
+aura127.vafb.nasa.gov,198.120.18.127
+kw1867267.vafb.nasa.gov,198.120.18.88
+pc7.vafb.nasa.gov,198.120.18.97
+reserv7.vafb.nasa.gov,198.120.18.158
+gsfc108.vafb.nasa.gov,198.120.18.136
+aura118.vafb.nasa.gov,198.120.18.118
+gsfc118.vafb.nasa.gov,198.120.18.146
+aura128.vafb.nasa.gov,198.120.18.128
+pc8.vafb.nasa.gov,198.120.18.98
+reserv8.vafb.nasa.gov,198.120.18.159
+aura109.vafb.nasa.gov,198.120.18.109
+gsfc109.vafb.nasa.gov,198.120.18.137
+aura119.vafb.nasa.gov,198.120.18.119
+gsfc119.vafb.nasa.gov,198.120.18.147
+pc9.vafb.nasa.gov,198.120.18.99
+reserv9.vafb.nasa.gov,198.120.18.160
+teresala.vafb.nasa.gov,198.120.18.151
+rosanova.vafb.nasa.gov,198.120.18.62
+vafbweb.vafb.nasa.gov,198.120.18.181
+jbyrd.vafb.nasa.gov,198.120.18.68
+griffle.vafb.nasa.gov,198.120.18.3
+tsingle.vafb.nasa.gov,198.120.18.78
+bigblue.vafb.nasa.gov,198.120.18.76
+canddh.vafb.nasa.gov,198.120.18.79
+lcusick.vafb.nasa.gov,198.120.18.63
+cook.vafb.nasa.gov,198.120.18.75
+bfafaul.vafb.nasa.gov,198.120.18.69
+jbergum.vafb.nasa.gov,198.120.18.67
+rotten.vafb.nasa.gov,198.120.18.74
+qnguyen.vafb.nasa.gov,198.120.18.72
+jwatzin.vafb.nasa.gov,198.120.18.64
+kbarnes.vafb.nasa.gov,198.120.18.71
+dgates.vafb.nasa.gov,198.120.18.61
+mstevens.vafb.nasa.gov,198.120.18.65
+mpowers.vafb.nasa.gov,198.120.18.77
+vicious.vafb.nasa.gov,198.120.18.73
+burrows.vafb.nasa.gov,198.120.18.4
+deverett.vafb.nasa.gov,198.120.18.66
+gw.vafb.nasa.gov,198.120.18.1
+library.vafb.nasa.gov,198.120.18.24
+tbattery.vafb.nasa.gov,198.120.18.70
+ns1-gslb.nasa.gov,192.149.129.24
+ns2-gslb.nasa.gov,198.120.25.143
+irb.nasa.gov,198.116.209.135
+esb.nasa.gov,192.149.131.115
+forms.neacc.nasa.gov,129.166.6.193
+naade01.nacc.nasa.gov,128.158.181.3
+noscap1.nacc.nasa.gov,192.77.77.9
+noscap2.nacc.nasa.gov,192.77.77.10
+noscdev2.nacc.nasa.gov,192.77.77.11
+naade03.nacc.nasa.gov,128.158.181.5
+jsimca.nacc.nasa.gov,192.160.91.2
+jsimcb.nacc.nasa.gov,192.160.91.3
+ndcdrc.nacc.nasa.gov,198.118.13.48
+noscxl.nacc.nasa.gov,192.77.77.12
+vmdmz.nacc.nasa.gov,192.77.77.3
+doc.oacc.nasa.gov,192.149.141.200
+dev-cdm-splunk.emcc.nasa.gov,54.221.27.40
+ops-540.cdscc.nasa.gov,192.195.197.26
+syseng-421.cdscc.nasa.gov,192.195.197.45
+admin-551.cdscc.nasa.gov,192.195.197.143
+admin-461.cdscc.nasa.gov,192.195.197.36
+mm1.cdscc.nasa.gov,203.5.58.216
+cdrms1.cdscc.nasa.gov,192.195.197.192
+ns1.cdscc.nasa.gov,203.5.58.196
+syseng-502.cdscc.nasa.gov,192.195.197.159
+syseng-452.cdscc.nasa.gov,192.195.197.112
+mm2.cdscc.nasa.gov,203.5.58.217
+admin2.cdscc.nasa.gov,192.195.197.84
+proxy2.cdscc.nasa.gov,192.195.197.197
+it-2113.cdscc.nasa.gov,192.195.197.145
+admin-443.cdscc.nasa.gov,192.195.197.142
+csg-483.cdscc.nasa.gov,192.195.197.27
+log-414.cdscc.nasa.gov,192.195.197.79
+syseng-554.cdscc.nasa.gov,192.195.197.115
+syseng-654.cdscc.nasa.gov,192.195.197.49
+admin-494.cdscc.nasa.gov,192.195.197.52
+tip-485.cdscc.nasa.gov,192.195.197.150
+csg-546.cdscc.nasa.gov,192.195.197.24
+csg-686.cdscc.nasa.gov,192.195.197.99
+syseng-417.cdscc.nasa.gov,192.195.197.109
+syseng-427.cdscc.nasa.gov,192.195.197.119
+ops-527.cdscc.nasa.gov,192.195.197.61
+syseng-547.cdscc.nasa.gov,192.195.197.108
+vcmm01dz218.cdscc.nasa.gov,203.5.58.218
+tip-448.cdscc.nasa.gov,192.195.197.23
+vcmm02dz219.cdscc.nasa.gov,203.5.58.219
+ant-539.cdscc.nasa.gov,192.195.197.123
+c-rasm2a.cdscc.nasa.gov,203.5.58.214
+c-rasm2b.cdscc.nasa.gov,203.5.58.215
+imp8pc.cdscc.nasa.gov,203.5.58.43
+hybrid.cdscc.nasa.gov,192.195.197.64
+anbe.cdscc.nasa.gov,192.195.197.5
+dsn-announce.cdscc.nasa.gov,203.5.58.210
+schedule.cdscc.nasa.gov,203.5.58.200
+steve.cdscc.nasa.gov,192.195.197.72
+ewe.cdscc.nasa.gov,203.49.39.66
+greg.cdscc.nasa.gov,192.195.197.12
+csg.cdscc.nasa.gov,192.195.197.9
+video.cdscc.nasa.gov,192.195.197.11
+filedrop.cdscc.nasa.gov,203.5.58.201
+cdc1.cnbr.cdscc.nasa.gov,192.195.197.90
+cex1.cnbr.cdscc.nasa.gov,192.195.197.193
+cdc2.cnbr.cdscc.nasa.gov,192.195.197.91
+reber.cdscc.nasa.gov,203.5.58.202
+c-ras.cdscc.nasa.gov,203.5.58.215 
+Files found:
+====================
+www.nasa.gov/382774main_081209_DC_Transcript.txt
+geo.pds.nasa.gov/missions/phoenix/phoenix_insthost_cat.txt
+[+] Emails found:
+------------------
+comments@hq.nasa.gov
+
+[+] Hosts found in search engines:
+------------------------------------
+[-] Resolving hostnames IPs...
+108.139.210.127:eyes.nasa.gov
+198.116.65.57:hq.nasa.gov
+192.42.77.101:larc.nasa.gov
+13.56.176.170:mars.jpl.nasa.gov
+192.149.130.247:nais.nasa.gov
+137.78.251.81:photojournal.jpl.nasa.gov
+108.139.210.17:solarsystem.nasa.gov
+108.139.229.26:www.nasa.gov
+subdomain finder test:
+nasa.eu
+nasa.co
+nasa.biz
+red.co
+red.io
+red.me
+red.us
+red.co.uk
+nasamax.com
+nasa360.com
+nasaair.com
+nasaart.com
+ceenasa.com
+nasaker.com
+runnasa.com
+thenasa.com
+nasacon.com
+nasaufo.com
+quinasa.com
+webnasa.com
+bitnasa.com
+nasatur.com
+nasaboy.com
+nasavel.com
+nasajpl.com
+nasamed.com
+nasatro.com
+jijnasa.com
+nasawia.com
+nasaapp.com
+nasabet.com
+betnasa.com
+nasausa.com
+nasaneo.com
+cignasa.com
+enenasa.com
+nasatel.com
+kannasa.com
+nasadaq.com
+nasasom.com
+nasadki.com
+nasanet.com
+nasatea.com
+nasaihe.com
+avenasa.com
+isfnasa.com
+nasaily.com
+irunasa.com
+nasarun.com
+jetnasa.com
+nasahub.com
+nasapro.com
+tranasa.com
+nasarow.com
+nasarel.com
+nasayun.com
+donnasa.com
+asknasa.com
+nasarus.com
+nasapup.com
+nasafuc.com
+csunasa.com
+ebanasa.com
+ufonasa.com
+jwtnasa.com
+wenasa.com
+menasa.com
+nasaflow.com
+nasagang.com
+nasaplus.com
+teamnasa.com
+fenasa.com
+nasaclub.com
+nasamail.com
+nasaasia.com
+senasa.com
+renasa.com
+itnasa.com
+nasabook.com
+amnasa.com
+pornnasa.com
+nasazi.com
+dynasa.com
+nasadiet.com
+oxpwnasa.com
+nasaad.com
+nasacode.com
+rxnasa.com
+nasadr.com
+nasarx.com
+namanasa.com
+nasafc.com
+nasaeb.com
+nasahome.com
+nasahost.com
+nasace.com
+nasase.com
+arabnasa.com
+nasagu.com
+nasada.com 
